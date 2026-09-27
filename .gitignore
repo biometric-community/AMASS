@@ -1,0 +1,14 @@
+# Large archives and extracts (obtain via upstream registration)
+*.zip
+*.tgz
+*.tar
+*.tar.gz
+*.7z
+*.rar
+extracted/
+data/
+parts/
+*.log
+nohup*.out
+.DS_Store
+__pycache__/
